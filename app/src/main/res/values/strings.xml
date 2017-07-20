@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PcBugsApp</string>
+    <string name="telephone_number">2104101567</string>
+    <string name="support_email">info@pcbugs.gr</string>
+    <string name="contact_textView">Contact:</string>
+    <string name="pcbugs_website">pcbugs.gr</string>
+</resources>
